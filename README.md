@@ -4,9 +4,9 @@ Projects (from last to first)
 - Swedish bitter [repo](https://github.com/yuri-frolov/swedish-bitter) | [link](https://yuri-frolov.github.io/swedish-bitter/build/index.html)
 - Denim [repo](https://github.com/yuri-frolov/denim)
     3 pages of the online store. pages are not linked
-    [index] (https://yuri-frolov.github.io/denim/index.html)
-    [catalog] (https://yuri-frolov.github.io/denim/catalog.html)
-    [card] (https://yuri-frolov.github.io/denim/card.html)
+    [index](https://yuri-frolov.github.io/denim/index.html)
+    [catalog](https://yuri-frolov.github.io/denim/catalog.html)
+    [card](https://yuri-frolov.github.io/denim/card.html)
 <!--
 **yuri-frolov/yuri-frolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
