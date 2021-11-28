@@ -1,7 +1,7 @@
 ### Hi there 👋
 Projects (from last to first)
-- Dreamkam tour [link](https://yuri-frolov.github.io/dreamkam-tour/build/index.html)|[repo](https://github.com/yuri-frolov/dreamkam-tour) 
-- Swedish bitter [link](https://yuri-frolov.github.io/swedish-bitter/build/index.html)|[repo](https://github.com/yuri-frolov/swedish-bitter)
+- Dreamkam tour [link](https://yuri-frolov.github.io/dreamkam-tour/build/index.html) | [repo](https://github.com/yuri-frolov/dreamkam-tour) 
+- Swedish bitter [link](https://yuri-frolov.github.io/swedish-bitter/build/index.html) | [repo](https://github.com/yuri-frolov/swedish-bitter)
 - Denim [repo](https://github.com/yuri-frolov/denim)
     3 pages of the online store. pages are not linked
     [index](https://yuri-frolov.github.io/denim/index.html)
